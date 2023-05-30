@@ -11,4 +11,4 @@ a classroom management system
 ![Screenshot_from_2023-05-26_15-22-44-removebg-preview (1)](https://github.com/leodvincci/codecampus/assets/90817505/68ebd0e6-ca1f-45eb-a2c3-a4355e6efb89)
 ![image-removebg-preview (12)](https://github.com/leodvincci/codecampus/assets/90817505/cec8d7f7-a956-457e-8191-01611c369817)
 
-![image-removebg-preview (13)](https://github.com/leodvincci/codecampus/assets/90817505/e77119b9-d038-43d4-b5ae-1bc15c80bc9c)
+![image-removebg-preview (14)](https://github.com/leodvincci/codecampus/assets/90817505/b078a32d-13b5-4ab6-9a30-6d5cfbde69f5)
